@@ -4,4 +4,4 @@ export const Config = {
     env: 'Unknown',
     port: 3000
   }
-}
+};

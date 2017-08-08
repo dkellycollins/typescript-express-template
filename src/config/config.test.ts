@@ -4,4 +4,4 @@ export const Config = {
     env: 'test',
     port: process.env.PORT || 3000
   }
-}
+};
